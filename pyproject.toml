@@ -1,0 +1,9 @@
+[project]
+name="BadApple.py"
+version="1.0.0"
+authors = ["DevNyanHa"]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+inquirerpy = "0.3.4"
+opencv-python = "4.12.0.88"
