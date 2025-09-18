@@ -16,7 +16,7 @@ python __main__.py
 ```
 | Step-1 | Step-2 | Step-3 |
 | :---: | :---: | :---: |
-| Select Play<br><img src="./mdassets/setup-1.png" alt="setup-1" width="120"> | Select File<br><img src="./mdassets/setup-2.png" alt="setup-2" width="120"> | Enjoy!<br><img src="./mdassets/setup-3.png" alt="setup-3" width="120"> |
+| Select Play<br><img src="./mdassets/setup-1.png" alt="setup-1" height="100"> | Select File<br><img src="./mdassets/setup-2.png" alt="setup-2" height="100"> | Enjoy!<br><img src="./mdassets/setup-3.png" alt="setup-3" height="100"> |
 ## Video Sampling
 To play the video, you first need to convert it into json.
 
